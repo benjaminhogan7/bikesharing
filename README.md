@@ -49,5 +49,5 @@ These visualizations look at the top starting and ending locations for rides. Mo
 
 As noted in the descriptions of the visualizations, the bulk of riders are male, ride for short amounts of time during commuting hours, and generally in lower Manhattan. Given that the reason behind this analysis was to see if this service could be brought to Des Moines, I would recommend a visualization and analysis of the geographical area of Des Moines to determine if it would be accessible for travel by bike. I would also recommend comparing the population density of NYC and Des Moines, it seems on the surface that they are two cities that are quite different. An additional visualization I would recommend is to look at the commuting patterns in Des Moines. What distance do commuters travel? Could commuters be persuaded to change their habits?
 
-
+Link to Tableau Public Workbook: https://public.tableau.com/views/CitiBikeRiderData-2/NYCCitiBike?:language=en-US&:display_count=n&:origin=viz_share_link
 
